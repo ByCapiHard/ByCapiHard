@@ -7,7 +7,7 @@
 
 - 💬 Starting coding **at 15 years old**
 
-- ⚡ Fun fact **I like coffee**
+- ⚡ Fun fact **I love coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
