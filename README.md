@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Capihard</h1>
 <h3 align="center">A student passionate of Programming and cybersec</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bycapihard&label=Profile%20views&color=0e75b6&style=flat" alt="bycapihard" /> </p>
 
 - 🌱 I’m currently learning **all stuff of fun**
 
