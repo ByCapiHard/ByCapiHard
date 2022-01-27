@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **all stuff of fun**
 
-- 💬 Starting coding **at 15 years old**
+- 💬 Starting coding **at 14 years old**
 
 - ⚡ Fun fact **I love coffee**
 
